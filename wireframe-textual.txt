@@ -1,0 +1,163 @@
+🧱 HEADER (fixo ou estático)
+
+Conteúdo:
+
+Logo (Roberto & Associados)
+
+Menu:
+
+Início
+
+Áreas de Atuação
+
+Sobre o Escritório
+
+Contato
+
+Regras:
+
+Fundo sólido
+
+Sem transparência
+
+Altura enxuta
+
+
+
+🧱 HERO + PARALLAX (primeiro impacto)
+
+Imagem de fundo (parallax):
+
+Foto institucional:
+
+Prédio corporativo
+
+Biblioteca jurídica
+
+Close de livros + mesa de madeira
+
+
+
+🧱 SEÇÃO — ÁREAS DE ATUAÇÃO
+
+Layout:
+
+Fundo claro
+
+Cards simples (3 ou 4)
+
+Exemplo de textos:
+
+Direito Civil
+Contratos, indenizações e obrigações.
+
+Direito Trabalhista
+Defesa de empregados e empregadores.
+
+Direito Previdenciário
+Aposentadorias e benefícios.
+
+Direito Penal (opcional)
+Atuação técnica e responsável.
+
+
+
+🧱 SEÇÃO — SOBRE O ESCRITÓRIO
+
+Imagem lateral:
+
+Foto de escritório moderno
+
+Ambiente organizado
+
+Texto:
+
+O escritório Roberto & Associados atua com foco em soluções jurídicas sólidas, oferecendo atendimento personalizado e absoluto compromisso com a ética profissional.
+
+
+
+🧱 SEÇÃO — DIFERENCIAIS
+
+Layout:
+
+Fundo escuro
+
+Ícones minimalistas
+
+Itens:
+
+Atendimento humanizado
+
+Transparência nos processos
+
+Atuação estratégica
+
+Experiência comprovada
+
+
+
+🧱 SEÇÃO — CONTATO (CTA FINAL)
+
+Texto:
+
+Precisa de orientação jurídica?
+Entre em contato e agende uma consulta.
+
+Botão:
+
+WhatsApp / Formulário
+
+
+
+🧱 FOOTER
+
+Endereço (fictício)
+
+Telefone
+
+Redes sociais
+
+Copyright
+
+3. Paleta de cores (hexadecimal)
+
+Essa parte é crítica. Vou propor uma paleta coerente com advocacia, não moda.
+
+
+
+🎨 CORES PRINCIPAIS
+
+Azul petróleo (confiança):
+#0F2A44
+
+Dourado sóbrio (detalhes):
+#C9A24D
+
+Cinza claro (fundos):
+#F4F4F4
+
+Cinza médio (textos secundários):
+#6B6B6B
+
+Branco puro:
+#FFFFFF
+
+4. Aplicação correta das cores (não é opcional)
+
+Azul petróleo → fundo de seções importantes
+
+Dourado → linhas, botões, detalhes (NUNCA fundo inteiro)
+
+Cinza claro → áreas de leitura
+
+Branco → respiro visual
+
+❌ Nunca usar:
+
+Vermelho
+
+Verde limão
+
+Roxo
+
+Gradientes chamativos
