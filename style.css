@@ -205,13 +205,14 @@ header section nav > a:hover {
 .diferencial {
     margin-top: 0;
     background-color: var(--cor1);
+    padding-bottom: 25px;
 }
 
 .diferencial > h2 {
     font-size: 2em;
     text-align: center;
     text-decoration: underline;
-    color: var(--cor2);
+    color: var(--cor5);
 
     margin: 20px;
     padding-top: 20px;
@@ -254,4 +255,58 @@ header section nav > a:hover {
         align-items: center;
      
 }
+}
+
+/* CONTATO DA PÁGINA */
+.contato {
+    margin-top: 0;
+    background-color: var(--cor3);
+    padding-bottom: 20px;
+}
+
+.contato > h2 {
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    color: var(--cor2);
+
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.contato > h3 {
+    font-size: 1.8em;
+    text-align: center;
+    color: var(--cor2);
+}
+
+.contato > p {
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.contato > p > .botao {
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: var(--cor2);
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+
+    border: 2px solid var(--cor2);
+    border-radius: 25px;
+}
+
+.contato > p > a:hover {
+    background-color: var(--cor2);
+    color: var(--cor5);
+}
+
+.contato > .icones > .icones-contato {
+    margin: 0 auto;
+    margin: 5px;
+    max-width: 30px;
+    cursor: pointer;
 }
