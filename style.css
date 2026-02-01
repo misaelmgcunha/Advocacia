@@ -310,3 +310,19 @@ header section nav > a:hover {
     max-width: 30px;
     cursor: pointer;
 }
+
+/* FOOTER DA PÁGINA */
+footer {
+    padding: 3px 0;
+    color: var(--cor5);
+    background-color: var(--cor1);
+
+    text-align: center;
+}
+
+footer > p a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--cor5);
+}
+
