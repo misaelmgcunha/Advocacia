@@ -26,6 +26,13 @@ section {
     margin: 0 auto;
 }
 
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Sombra única para todo o bloco */
+    background-color: var(--cor5);
+    overflow: hidden;
+}
 
 /* HEADER DA PÁGINA*/
 
@@ -128,6 +135,7 @@ header section nav > a:hover {
 @media (max-width: 768px) {
     .area-atuacao > .cards {
         flex-direction: column;
+        align-items: center;
      
 }
 }
@@ -190,4 +198,60 @@ header section nav > a:hover {
     .sobre-escritorio .escritorio img {
         max-width: 100%;
     }
+}
+
+/* DIFERENCIAL DA PÁGINA */
+
+.diferencial {
+    margin-top: 0;
+    background-color: var(--cor1);
+}
+
+.diferencial > h2 {
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    color: var(--cor2);
+
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.diferencial > .itens {
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;          
+}
+
+.diferencial > .itens > .item {
+    flex: 0 1 calc(50% - 20px);
+    max-width: 150px;    
+    border-radius: 15px;
+    overflow: hidden;
+    margin: 10px;
+
+    text-align: center;
+    color: var(--cor5);
+}
+
+.diferencial > .itens > .item > img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    display: block;
+    height: 150px;
+    
+    background-color: var(--cor3);
+    border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+    .diferencial > .itens {
+        flex-direction: column;
+        align-items: center;
+     
+}
 }
